@@ -1,6 +1,8 @@
 # Hi there, I'm Md. Ibne Sina 👋
 
-[![Visitor Count](https://profile-counter.glitch.me/ibnesina/count.svg)](https://github.com/ibnesina)
+![Profile Views](https://komarev.com/ghpvc/?username=ibnesina)
+
+
 
 ## About Me
 I'm a Computer Science student at KUET with a passion for deep learning, blockchain, and software development. I love solving problems, learning new technologies, and collaborating on open-source projects.  
