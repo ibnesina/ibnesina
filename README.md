@@ -11,9 +11,9 @@ I'm a Computer Science student at KUET with a passion for deep learning, blockch
 - ⚡ Fun fact: I solved over 600 coding problems!
 
 ## 🛠️ Skills & Technologies
-### Languages & Frameworks
+### Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -21,14 +21,24 @@ I'm a Computer Science student at KUET with a passion for deep learning, blockch
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat&logo=swift&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 
+### Frameworks
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=flat&logo=ios&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-000000?style=flat&logo=hardhat&logoColor=white)
+
 ### Tools & Platforms
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ## 📊 GitHub Stats
-[![Ibne's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibnesina&show_icons=true&theme=radical)](https://github.com/ibnesina)
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ibnesina&layout=compact&theme=radical)](https://github.com/ibnesina)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ibnesina&show_icons=true&theme=radical" height="200" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnesina&layout=compact&theme=radical" height="200" alt="Top Languages"/>
+</p>
 
 ## 🏆 GitHub Trophies
 [![trophy](https://github-profile-trophy.vercel.app/?username=ibnesina&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
@@ -41,7 +51,3 @@ I'm a Computer Science student at KUET with a passion for deep learning, blockch
  BLOG-POST-LIST:START 
 - [Sample Blog Post Title](#)-->
 <!-- BLOG-POST-LIST:END -->
-
----
-
-*Proudly generated with ❤️ using [GitHub Readme Generator](https://rahuldkjain.github.io/gh-profile-readme-generator/)*
