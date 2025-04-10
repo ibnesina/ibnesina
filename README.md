@@ -40,8 +40,8 @@ I'm a Computer Science student at KUET with a passion for deep learning, blockch
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnesina&layout=compact&theme=radical" height="200" alt="Top Languages"/>
 </p>
 
-## 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=ibnesina&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<!--## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=ibnesina&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 ## 💬 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ibnesina10)
