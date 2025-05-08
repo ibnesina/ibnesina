@@ -5,7 +5,8 @@
 
 
 ## About Me
-I'm a Computer Science student at KUET with a passion for deep learning, blockchain, and software development. I love solving problems, learning new technologies, and collaborating on open-source projects.  
+I’m Md. Ibne Sina, a passionate Computer Science graduate from KUET with a strong background in full-stack development, problem solving, and deep learning. I’ve solved over 600 coding problems across various platforms and led several impactful projects—most notably BanglaHire, a freelancing platform tailored for Bangladesh. I enjoy building scalable systems, and I’m comfortable working with technologies like C++, Python, Laravel, and Docker. Beyond coding, I’ve taken on leadership roles in student clubs and hackathons, and I’m proud to have received the Dean’s Award and won Math Olympiads. I love turning ideas into solutions that make a real difference.
+
 - 🔭 I’m currently working on some exciting projects in Software Development and AI.
 - 🌱 I’m learning more about advanced Deep Learning techniques and Blockchain integration.
 - 🤝 I’m looking to collaborate on interesting open-source projects.
