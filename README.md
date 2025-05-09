@@ -39,7 +39,7 @@ I’m Md. Ibne Sina, a passionate Computer Science graduate from KUET with a str
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ibnesina&show_icons=true&theme=radical" height="200" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ibnesina&show_icons=true&theme=radical&count_private=true&cache_seconds=60" height="200" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ibnesina&layout=compact&theme=radical" height="200" alt="Top Languages"/>
 </p>
 
