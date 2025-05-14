@@ -11,7 +11,9 @@ I’m Md. Ibne Sina, a passionate Computer Science graduate from KUET with a str
 - 🌱 I’m learning more about advanced Deep Learning techniques and Blockchain integration.
 - 🤝 I’m looking to collaborate on interesting open-source projects.
 - 📫 How to reach me: [ibnesina10@gmail.com](mailto:ibnesina10@gmail.com)
-- ⚡ Fun fact: I solved over 600 coding problems!
+- ⚡ Code fact: I solved over 600 coding problems!
+
+### 🔗 Portfolio: [Link](https://portfolio-tau-nine-19.vercel.app)
 
 ## 🛠️ Skills & Technologies
 ### Languages
